@@ -1,7 +1,7 @@
 {
-  "name": "framework-arduino-avr",
-  "version": "5.1.0",
-  "description": "The official Arduino Wiring-based Framework for Microchip AVR microcontrollers",
+  "name": "framework-arduino-avr-xinput",
+  "version": "1.0.2",
+  "description": " AVR boards package for the ArduinoXInput project ",
   "keywords": [
     "framework",
     "arduino",
@@ -12,6 +12,6 @@
   "license": "LGPL-2.1-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arduino/ArduinoCore-avr"
+    "url": "https://github.com/maxgerhardt/ArduinoXInput_AVR"
   }
 }
